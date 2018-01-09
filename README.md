@@ -3,4 +3,4 @@
 
 ## **Javascript**
 
-- [Javascript中的基本数据类型](https://www.baidu.com "百度")
+- [Javascript中的基本数据类型](https://github.com/weirui88888/blog/issues/1)
