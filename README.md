@@ -1,4 +1,15 @@
-# 博客
+![jiben](https://github.com/weirui88888/blog/blob/master/images/_uqDYFkrmLM.jpg)
+
+---
+## 简介
+
+- 姓名：newArray
+- 年龄：26
+- 工作：目前就职于-易宝支付有限公司
+- 擅长技能：css、javascript、jquery、node、vue、es6等
+- 爱好：逛论坛（知乎、简书、github、掘金）、写博客、打游戏（lol）
+
+## 博客
 
 2018年的一个目标就是，每天写一篇博客，篇幅无所谓，贵在坚持✊。
 
