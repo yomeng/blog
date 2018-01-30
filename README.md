@@ -22,3 +22,4 @@
 - [JSONP实现跨域](https://github.com/weirui88888/blog/issues/3)
 - [判断一个数是不是质数](https://github.com/weirui88888/blog/issues/4)
 - [javascript中的this指向](https://github.com/weirui88888/blog/issues/5)
+- [javascript中创建对象的方法](https://github.com/weirui88888/blog/issues/6)
