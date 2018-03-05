@@ -12,7 +12,7 @@
 
 ## 博客
 
-2018年的一个目标就是，每天写一篇博客，篇幅无所谓，贵在坚持✊。
+2018年的一个目标就是，定期写博客，篇幅无所谓，贵在坚持✊。
 
 😊  *I will record everything. hoping to help you，If you like you can star.*
 
