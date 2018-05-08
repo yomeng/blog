@@ -25,7 +25,10 @@
 - [javascript中的this指向](https://github.com/weirui88888/blog/issues/5)
 - [javascript中创建对象的方法](https://github.com/weirui88888/blog/issues/6)
 - [找出字符串中出现最多的字符串](https://github.com/weirui88888/blog/issues/7)
-- [前端性能优化](https://github.com/weirui88888/blog/issues/8)
+
+> 前端性能优化
+
+- [前端性能优化-函数节流、函数防抖](https://github.com/weirui88888/blog/issues/8)
 
 
 
