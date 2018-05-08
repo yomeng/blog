@@ -28,7 +28,7 @@
 
 > 前端性能优化
 
-- [前端性能优化-函数节流、函数防抖](https://github.com/weirui88888/blog/issues/8)
+- [函数节流、函数防抖](https://github.com/weirui88888/blog/issues/8)
 
 
 
