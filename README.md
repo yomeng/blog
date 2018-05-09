@@ -16,8 +16,7 @@
 
 😊  *I will record everything. hoping to help you，If you like you can star.*
 
-## **Javascript**
-
+> 常见面试题
 - [基本数据类型](https://github.com/weirui88888/blog/issues/1)
 - [浅拷贝与深拷贝](https://github.com/weirui88888/blog/issues/2)
 - [JSONP实现跨域](https://github.com/weirui88888/blog/issues/3)
@@ -27,8 +26,10 @@
 - [找出字符串中出现最多的字符串](https://github.com/weirui88888/blog/issues/7)
 
 > 前端性能优化
-- [主要途径](https://github.com/weirui88888/blog/issues/10)
+- [性能优化总结（附图片）](https://github.com/weirui88888/blog/issues/10)
 - [函数节流、函数防抖](https://github.com/weirui88888/blog/issues/8)
 
+> ES6知识点
+- [阮一峰ES6规范总结](https://github.com/weirui88888/blog/issues/11)
 
 
