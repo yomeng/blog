@@ -27,7 +27,7 @@
 - [找出字符串中出现最多的字符串](https://github.com/weirui88888/blog/issues/7)
 
 > 前端性能优化
-
+- [主要途径](https://github.com/weirui88888/blog/issues/9)
 - [函数节流、函数防抖](https://github.com/weirui88888/blog/issues/8)
 
 
